@@ -1,5 +1,3 @@
--r requirements/base.txt
-
 static
 gunicorn
 psycopg2
